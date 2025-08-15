@@ -1,3 +1,10 @@
+"""
+
+A small Python script for getting KRA access token and checking if a KRA PIN is 
+valid using the sandbox API
+
+"""
+
 import requests
 from requests.auth import HTTPBasicAuth
 
